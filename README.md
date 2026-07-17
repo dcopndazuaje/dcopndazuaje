@@ -1,5 +1,6 @@
-soy kleiber
+
 ## Hi there 👋
+im kliber
 i likes the planes <img width="1764" height="958" alt="image" src="https://github.com/user-attachments/assets/7b6650c1-8894-4c3b-a4b1-90df1abf625f" />
 
 
