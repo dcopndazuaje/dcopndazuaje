@@ -1,6 +1,7 @@
 soy kleiber
 ## Hi there 👋
-sebastian is gay
+sebastian is gay <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/656f7bb2-adb5-447c-87f3-0e5150ec6793" />
+
 
 <!--
 **dcopndazuaje/dcopndazuaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
