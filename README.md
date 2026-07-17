@@ -6,7 +6,7 @@ and play video games
 soy bueno en MATEMATICAS FISICA 🌍 y quimica 
 . Yo soy responsable y maduro como para tener un trabajo 
 me gusta trabajar en equipo pero si estoy solo no importa
-<img width="539" height="687" alt="image" src="https://github.com/user-attachments/assets/78c35d5f-e15e-480a-856b-e2dbd3512aca" />
+no tengo pareja por que en eso es en lo unico que me va mal
 
 
 
