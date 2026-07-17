@@ -13,7 +13,7 @@ no tengo pareja por que en eso es en lo unico que me va mal
 
 <br />
 
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
+
 
 <br/>
 <br/>
