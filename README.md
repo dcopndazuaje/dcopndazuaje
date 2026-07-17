@@ -1,6 +1,8 @@
 soy kleiber
 ## Hi there 👋
-i likes superman https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESwQEOP85nIURAPhALoQtvseZuXlRhVCiGhr6V9T0Ag&s=10
+i likes de plane <img width="1764" height="958" alt="image" src="https://github.com/user-attachments/assets/7b6650c1-8894-4c3b-a4b1-90df1abf625f" />
+
+
 
 <!--
 **dcopndazuaje/dcopndazuaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
