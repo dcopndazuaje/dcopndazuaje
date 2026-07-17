@@ -1,7 +1,6 @@
 soy kleiber
 ## Hi there 👋
-i likes superman https://www.google.com/imgres?q=superman&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fsuperman%2Fimages%2F4%2F4d%2FSuperman_Moderno.png%2Frevision%2Flatest%2Fthumbnail%2Fwidth%2F360%2Fheight%2F360%3Fcb%3D20150126220714%26path-prefix%3Des&imgrefurl=https%3A%2F%2Fsuperman.fandom.com%2Fes%2Fwiki%2FSuperman_(Clark_Kent)&docid=s2DKFKEnJjf_ZM&tbnid=Kll7EezIFNSoVM&vet=12ahUKEwimmbSxsdqVAxWlVTABHflII0UQnPAOegQINhAA..i&w=240&h=360&hcb=2&ved=2ahUKEwimmbSxsdqVAxWlVTABHflII0UQnPAOegQINhAA
-
+i likes superman https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESwQEOP85nIURAPhALoQtvseZuXlRhVCiGhr6V9T0Ag&s=10
 
 <!--
 **dcopndazuaje/dcopndazuaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
