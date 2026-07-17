@@ -9,7 +9,7 @@ me gusta trabajar en equipo pero si estoy solo no importa
 no tengo pareja por que en eso es en lo unico que me va mal
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/Kleiber/Kleiber/master/assets/terminal.gif" alt="Here is a little bit about me!">
 
 <br />
 
