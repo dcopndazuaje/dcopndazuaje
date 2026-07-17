@@ -1,6 +1,6 @@
 soy kleiber
 ## Hi there 👋
-sebastian is gay <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/656f7bb2-adb5-447c-87f3-0e5150ec6793" />
+i likes superman https://www.google.com/imgres?q=superman&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fsuperman%2Fimages%2F4%2F4d%2FSuperman_Moderno.png%2Frevision%2Flatest%2Fthumbnail%2Fwidth%2F360%2Fheight%2F360%3Fcb%3D20150126220714%26path-prefix%3Des&imgrefurl=https%3A%2F%2Fsuperman.fandom.com%2Fes%2Fwiki%2FSuperman_(Clark_Kent)&docid=s2DKFKEnJjf_ZM&tbnid=Kll7EezIFNSoVM&vet=12ahUKEwimmbSxsdqVAxWlVTABHflII0UQnPAOegQINhAA..i&w=240&h=360&hcb=2&ved=2ahUKEwimmbSxsdqVAxWlVTABHflII0UQnPAOegQINhAA
 
 
 <!--
