@@ -17,5 +17,11 @@ En estar por lo
 ## civil
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/33801c8d-bd65-4248-a557-3f51e89e1564" />
 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/594985a2-50d1-4164-92f3-5c2a4f14a9be" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/deb8b394-8cc9-4ecf-98af-18f63ee741e6" />
+C:\Users\ESTUDIANTE\Downloads\descarga (8).jfif
+
+
+
 
 
